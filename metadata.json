@@ -1,0 +1,5 @@
+{"name": "Pokemon Champions Retro 1v1 Battle",
+  "description": "1부터 9세대까지 메타 최강의 포켓몬 10마리 성격/도구 챔피언 라인업과 함께 즐기는 레트로 1대1 배틀 게임! AI 오박사의 지능형 코칭 싱글배틀과 실시간 무선 PeerJS 멀티플레이어 배틀을 완벽 통합 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
